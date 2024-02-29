@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+	<reporter-output>
+	</reporter-output>
+	<suite started-at="2024-01-30T11:45:53 EST" name="Suite"
+		finished-at="2024-01-30T11:45:53 EST" duration-ms="23">
+		<groups>
+		</groups>
+		<test started-at="2024-01-30T11:45:53 EST" name="personalloan"
+			finished-at="2024-01-30T11:45:53 EST" duration-ms="23">
+			<class name="loan.day1">
+				<test-method
+					signature="Demo()[pri:0, instance:loan.day1@69930714]"
+					started-at="2024-01-30T11:45:53 EST" name="Demo"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="4"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				Demo -->
+				<test-method
+					signature="SecondTest()[pri:0, instance:loan.day1@69930714]"
+					started-at="2024-01-30T11:45:53 EST" name="SecondTest"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="1"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				SecondTest -->
+			</class> <!--
+			loan.day1 -->
+			<class name="loan.day3">
+				<test-method
+					signature="LoginApihomeloan()[pri:0, instance:loan.day3@2cbb3d47]"
+					started-at="2024-01-30T11:45:53 EST" name="LoginApihomeloan"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="0"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				LoginApihomeloan -->
+				<test-method
+					signature="Mobileloginhomeloan()[pri:0, instance:loan.day3@2cbb3d47]"
+					started-at="2024-01-30T11:45:53 EST"
+					name="Mobileloginhomeloan"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="0"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				Mobileloginhomeloan -->
+				<test-method
+					signature="Webloginhomeloan()[pri:0, instance:loan.day3@2cbb3d47]"
+					started-at="2024-01-30T11:45:53 EST" name="Webloginhomeloan"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="0"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				Webloginhomeloan -->
+			</class> <!--
+			loan.day3 -->
+			<class name="loan.day2">
+				<test-method
+					signature="plan()[pri:0, instance:loan.day2@527e5409]"
+					started-at="2024-01-30T11:45:53 EST" name="plan"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="0"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				plan -->
+			</class> <!--
+			loan.day2 -->
+			<class name="loan.day4">
+				<test-method
+					signature="MobileLoginApicarloan()[pri:0, instance:loan.day4@1198b989]"
+					started-at="2024-01-30T11:45:53 EST"
+					name="MobileLoginApicarloan"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="0"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				MobileLoginApicarloan -->
+				<test-method
+					signature="Webloginvcarloan()[pri:0, instance:loan.day4@1198b989]"
+					started-at="2024-01-30T11:45:53 EST" name="Webloginvcarloan"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="1"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				Webloginvcarloan -->
+				<test-method
+					signature="Mobilellogincarloan()[pri:0, instance:loan.day4@1198b989]"
+					started-at="2024-01-30T11:45:53 EST"
+					name="Mobilellogincarloan"
+					finished-at="2024-01-30T11:45:53 EST" duration-ms="0"
+					status="PASS">
+					<reporter-output>
+					</reporter-output>
+				</test-method> <!--
+				Mobilellogincarloan -->
+			</class> <!--
+			loan.day4 -->
+		</test> <!--
+		personalloan -->
+	</suite> <!--
+	Suite -->
+</testng-results>
