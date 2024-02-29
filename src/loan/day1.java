@@ -10,6 +10,7 @@ public class day1 {
 		System.out.println("hello from gitsample1 ready to commit");
 		System.out.println("hello from gitsample ");
 		
+		
 	}
 	@Test
 	public void SecondTest()
