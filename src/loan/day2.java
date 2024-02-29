@@ -11,6 +11,7 @@ public class day2 {
 		System.out.println("bad2");
 		
 		
+		
 	}
 
 }

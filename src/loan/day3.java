@@ -17,6 +17,7 @@ public class day3 {
 	public void LoginApihomeloan()
 	{
 		System.out.println("apilogin");
+		System.out.println("y");
 	}
 
 }
