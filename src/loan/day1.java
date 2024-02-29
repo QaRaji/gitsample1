@@ -7,6 +7,8 @@ public class day1 {
 	public void Demo()
 	{
 		System.out.println("hello");
+		System.out.println("hello from gitsample1 ready to commit");
+		
 	}
 	@Test
 	public void SecondTest()
