@@ -8,6 +8,8 @@ public class day2 {
 	{
 		System.out.println("good");
 		System.out.println("bad");
+		System.out.println("bad2");
+		
 		
 	}
 
